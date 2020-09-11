@@ -1,6 +1,6 @@
 # Nablarch Development Standards  > Application Development Standards
 This category describes the standard documentation required for application development in the Nablarch development standards.
-See the [Nablarch Style Guide](https://github.com/nablarch-development-standards/nablarch-style-guide/tree/feature-NAB-356/en) for more information on coding conventions and Checkstyle and SpotBugs for each language.
+See the [Nablarch Style Guide](https://github.com/nablarch-development-standards/nablarch-style-guide/tree/master/en) for more information on coding conventions and Checkstyle and SpotBugs for each language.
 
 |Category|Contents Name|Overview|
 |--|--|--|
