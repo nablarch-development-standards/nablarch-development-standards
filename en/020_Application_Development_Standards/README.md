@@ -17,4 +17,4 @@ See the [Nablarch Style Guide](https://github.com/nablarch-development-standards
 
 ## License
 
-This content is compliant with <a href="https://fintan.jp/?page_id=5803&lang=en"> Fintan Content License Terms And Conditions"</a>.
+This content is compliant with <a href="https://fintan.jp/?page_id=5803&lang=en"> Fintan Content License Terms And Conditions</a>.
