@@ -14,3 +14,7 @@ See the [Nablarch Style Guide](https://github.com/nablarch-development-standards
 [1]: ../../020_アプリケーション開発標準/010_設計標準/UI標準(画面).xlsx
 [2]: ../../020_アプリケーション開発標準/010_設計標準/UI標準(画面)別冊_UI部品カタログ.xlsx
 [3]: ../../020_アプリケーション開発標準/010_設計標準/UI標準(帳票).xlsx
+
+## License
+
+This content is compliant with <a href="https://fintan.jp/?page_id=5803&lang=en"> Fintan Content License Terms And Conditions"</a>.
