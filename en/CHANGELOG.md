@@ -2,6 +2,12 @@
 
 All significant changes to this project will be documented in this file.
 
+## [2.1] - 2021-10-31
+### Updates
+#### Change
+- Only the Japanese version of document has been updated.
+
+
 ## [2.0] - 2020-08-14
 ### Updates
 #### Add
