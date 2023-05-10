@@ -2,11 +2,14 @@
 
 このプロジェクトに対するすべての重要な変更は、このファイルに文書化されます。
 
-## [2.3] - 2023-05-09
+## [2.3] - 2023-05-10
 ### 更新内容
 #### 変更
 - ドメイン定義書を修正しました。
-  - 「2.1. Nablarch標準提供バリデーション」に、「列挙値バリデーション」を追加しました。
+  - 「2.1. Nablarch標準提供バリデーション」が[Nablarch独自のバリデーション機能 (Nablarch Validation)](https://nablarch.github.io/docs/LATEST/doc/application_framework/application_framework/libraries/validation/nablarch_validation.html)前提の記載となっていたため、Nablarch Validationと[Java EE7のBean Validation(JSR349)に準拠したバリデーション機能 (Bean Validation)](https://nablarch.github.io/docs/LATEST/doc/application_framework/application_framework/libraries/validation/bean_validation.html)を併記し、プロジェクトで使用するバリデーション機能に合わせて記載を選択できるようにしました。
+  - Bean Validationの一覧に「要素数バリデーション」及び「列挙値バリデーション」を追加しました。
+- ドメイン定義書_サンプルを修正しました。
+  - 「2.1. Nablarch標準提供バリデーション」の記載を、Bean Validationを使用した記載に修正しました。
 
 ## [2.2] - 2022-10-31
 ### 更新内容
