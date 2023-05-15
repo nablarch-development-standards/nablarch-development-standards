@@ -15,7 +15,7 @@ All significant changes to this project will be documented in this file.
   - Changed adopted DBMS product to PostgreSQL.
   - Added primary key and unique key to naming conventions.
 - Fixed unit test standards.
-  - Changed to a test viewpoint that refers to test type catalog and test viewpoint catalog.
+  - Changed to a testing viewpoint that refers to testing type catalog and testing viewpoint catalog.
 
 ## [2.1] - 2021-10-31
 ### Updates
