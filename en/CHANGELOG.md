@@ -2,6 +2,20 @@
 
 All significant changes to this project will be documented in this file.
 
+## [2.3] - 2023-09-30
+### Updates
+#### Change
+- Only the Japanese version of document has been updated.
+
+## [2.2] - 2022-10-31
+### Updates
+#### Change
+- Fixed DB design standards.
+  - Changed adopted DBMS product to PostgreSQL.
+  - Added primary key and unique key to naming conventions.
+- Fixed unit test standards.
+  - Changed to a test viewpoint that refers to test type catalog and test viewpoint catalog.
+
 ## [2.1] - 2021-10-31
 ### Updates
 #### Change
