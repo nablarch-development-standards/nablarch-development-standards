@@ -2,16 +2,11 @@
 
 All significant changes to this project will be documented in this file.
 
-## [2.4] - 2024-09-30
+## [2.3] - 2024-09-30
 ### Updates
 #### Change
 - Fixed unit test standards.
   - Removed descriptions that were inconsistent with the Japanese version of the document.
-
-## [2.3] - 2023-09-30
-### Updates
-#### Change
-- Fixed unit test standards.
   - Removed unnecessary changelogs for diversion.
 
 ## [2.2] - 2022-10-31
