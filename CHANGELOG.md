@@ -6,7 +6,7 @@
 ### 更新内容
 #### 変更
 - ドメイン定義書を修正しました。
-  - 「2.1. Nablarch標準提供バリデーション」にはNablarch独自のバリデーション機能 (Nablarch Validation)を記載していましたが、現在の推奨であるJava EE7のBean Validation(JSR349)に準拠したバリデーション機能 (Bean Validation)に変更しました。
+  - 「2.1. Nablarch標準提供バリデーション」にはNablarch独自のバリデーション機能 (Nablarch Validation)を記載していましたが、現在の推奨であるJakarta EEのJakarta Bean Validationに準拠したバリデーション機能 (Bean Validation)に変更しました。
 - Nablarchを使用したシステム開発における標準WBSを修正しました。
   - Nablarch6系がJakartaEE10前提となったことを踏まえ、「1.4. 本書におけるJakartaEE仕様への読み替えについて」を追加しました。
   - Nablarch5系以降提供されていない「JSP自動生成ツール」への言及を削除しました。
