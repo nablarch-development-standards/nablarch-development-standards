@@ -1,6 +1,6 @@
 # [Nablarch開発標準](../README.md)  > アプリケーション開発標準
 本カテゴリではNablarch開発標準における、アプリケーション開発に必要な標準文書を示します。
-なお各言語のコーディング規約と、Checkstyle・SpotBugsといった静的解析ツールの導入ガイドについては[Nablarchスタイルガイド](https://github.com/Fintan-contents/coding-standards)を参照してください。
+なお各言語のコーディング規約と、Checkstyle・SpotBugsといった静的解析ツールの導入ガイドについては[スタイルガイド](https://github.com/Fintan-contents/coding-standards)を参照してください。
 
 |カテゴリ|コンテンツ名|概要|
 |--|--|--|
